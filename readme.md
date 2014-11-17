@@ -1,6 +1,17 @@
-for a lovely ambient music player I designed over the summer (2014)
-Spent the summer working in the Packard building on Stanford campus
-with Professor Sirkin and TAs Nik, Jane, and Samyuktha. Thanks guys!
-most fun summer I've ever had... hi Tina, Grace, Olinah, Anders,
-Justin, Romeo, Michael!! I miss Stanford so much! #latenightcommits :D
-ehehrhh
+Arduino code for an ambient music player.
+
+Design Philosophy
+-----------------
+  I wanted to create a tabletop music speaker that was sleek, simplistic and
+elegant while creating an ambient environment that could relax a user while he
+or she worked; while it is aesthetics forward, the visualizer does not
+compromise main component functionality.
+
+  There are three buttons on the side of the player — back, pause/play and skip,
+respectively. The user interface was designed to be simple, so as not to
+distract someone like a phone does. The speakers are placed on two adjacent
+sides of the player and the power and microSD adapter on the remaining side.
+Everything was hand-soldered onto unlined perfboard. The housing was designed
+with the same idea that the player should be minimalistic and sleek.
+
+Laser-cut frosted acrylic with the help of Stanford’s PR lab team!
