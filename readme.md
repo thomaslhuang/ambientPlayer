@@ -16,4 +16,5 @@ with the same idea that the player should be minimalistic and sleek.
 
 Laser-cut frosted acrylic with the help of Stanford’s PR lab team!
 
-![alt tag](http://tlhuang.me/img/projects/speaker.jpg)
+![alt tag](http://tlhuang.me/img/placeholder.jpg)
+![alt tag](http://tlhuang.me/img/dsc_0222.JPG)
