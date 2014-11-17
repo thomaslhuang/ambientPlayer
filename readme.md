@@ -15,3 +15,5 @@ Everything was hand-soldered onto unlined perfboard. The housing was designed
 with the same idea that the player should be minimalistic and sleek.
 
 Laser-cut frosted acrylic with the help of Stanford’s PR lab team!
+
+![alt tag](http://tlhuang.me/img/projects/speaker.jpg)
